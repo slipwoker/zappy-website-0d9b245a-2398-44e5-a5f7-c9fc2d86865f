@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אמ״א מחברת הורים לילדים עם מוגבלות לקהילה חזקה ותומכת. קבלו מידע, תמיכה רגשית וכלים מעשיים להתמודדות יומיומית. הצטרפו אלינו עכשיו
+
+### אודות
+https://example.com/about
+גלו את המסע שהוביל להקמת אמ״א והכירו את הצוות והחזון שלנו. עמותה שנולדה מתוך אהבה, מחויבות והבנה עמוקה של הורים לילדים עם מוגבלות
+
+### השפעה
+https://example.com/impact
+צפו בהשפעה המדהימה של אמ״א על אלפי משפחות בישראל. סיפורי הצלחה, נתונים מרשימים ותוצאות מוחשיות של תמיכה קהילתית אמיתית שמשנה חיים
+
+### צור קשר
+https://example.com/contact
+פנו אלינו בכל שאלה, בקשה לתמיכה או הצטרפות לקהילה. הצוות של אמ״א כאן בשבילכם עם תשובות, הקשבה ועזרה מעשית. יוצרים קשר היום
+
+### Products
+https://example.com/products
+המוצרים שלנו - אמ"א
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אמ"א
+
+### Category
+https://example.com/category/:slug
+מוצרים - אמ"א
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
